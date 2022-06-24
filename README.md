@@ -13,6 +13,6 @@ Apabila setelah Anda mengkaji hasil analisis pada repositori ini dan menemukan k
 <!-- Sesi Data Analytic -->
 <details><summary>Daftar Project Data Analisis</summary>
   
-  - [[📂]([https://dashboard.amcc.or.id](https://github.com/katibpasha/data_analytics_portfolio/tree/main/Project/Data-Analisis/Analisis-kecelakaan-lalin-prancis))] Analisis Kecelakaan Lalu Lintas di Prancis
+  - [[📂](https://dashboard.amcc.or.id](https://github.com/katibpasha/data_analytics_portfolio/tree/main/Project/Data-Analisis/Analisis-kecelakaan-lalin-prancis)] Analisis Kecelakaan Lalu Lintas di Prancis
 
 </details>
