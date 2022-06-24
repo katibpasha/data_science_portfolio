@@ -1,5 +1,5 @@
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/Banner-github.jpg"></a>
+  <a href='https://www.linkedin.com/in/titan-bagus-bramantyo-aba6311ba/'><img src="README/Banner-github.jpg"></a>
 </p>
 
 ---
@@ -13,6 +13,6 @@ Apabila setelah Anda mengkaji hasil analisis pada repositori ini dan menemukan k
 <!-- Sesi Data Analytic -->
 <details><summary>Daftar Project Data Analisis</summary>
   
-  - [[📂](https://dashboard.amcc.or.id)] Analisis Kecelakaan Lalu Lintas di Prancis
+  - [[📂](https://github.com/katibpasha/data_analytics_portfolio/tree/main/Project/Data-Analisis/Analisis-kecelakaan-lalin-prancis)] Analisis Kecelakaan Lalu Lintas di Prancis
 
 </details>
