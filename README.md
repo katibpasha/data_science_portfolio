@@ -1,5 +1,5 @@
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more](https://www.linkedin.com/in/titan-bagus-bramantyo-aba6311ba/'><img src="README/Banner-github.jpg"></a>
+  <a href='https://www.linkedin.com/in/titan-bagus-bramantyo-aba6311ba/'><img src="README/Banner-github.jpg"></a>
 </p>
 
 ---
