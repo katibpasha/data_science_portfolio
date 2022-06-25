@@ -13,14 +13,15 @@ Apabila setelah Anda mengkaji hasil analisis pada repositori ini dan menemukan k
 <!-- Sesi Data Analytic -->
 <details><summary>Daftar Project Data Analisis</summary>
   
-  - [[📂](https://github.com/katibpasha/data_analytics_portfolio/tree/main/Project/Data-Analisis/Analisis-kecelakaan-lalin-prancis)] Analisis Kecelakaan Lalu Lintas di Prancis
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Data-Analisis/Analisis-kecelakaan-lalin-prancis)] Analisis Kecelakaan Lalu Lintas di Prancis
 
 </details>
 
 <!-- Sesi Machine Learning -->
 <details><summary>Daftar Project Machine Learning</summary>
   
-  - [[📂](https://github.com/katibpasha/data_analytics_portfolio/tree/main/Project/Machine-Learning/Deteksi-hepatitis-c)] Deteksi Penyakit Hepatitis C
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Deteksi-hepatitis-c)] Deteksi Penyakit Hepatitis C
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Rekognisi-corak-batik)] Rekognisi Corak Batik Parang & Ceplok
 
 </details>
 
