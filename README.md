@@ -20,8 +20,9 @@ Apabila setelah Anda mengkaji hasil analisis pada repositori ini dan menemukan k
 <!-- Sesi Machine Learning -->
 <details><summary>Daftar Project Machine Learning</summary>
   
-  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Deteksi-hepatitis-c)] Deteksi Penyakit Hepatitis C
-  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Rekognisi-corak-batik)] Rekognisi Corak Batik Parang & Ceplok
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Deteksi-hepatitis-c)] Deteksi Penyakit Hepatitis C (Klasifikasi)
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Rekognisi-corak-batik)] Rekognisi Corak Batik Parang & Ceplok (Klasifikasi)
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Klasifikasi-kelayakan-penerima-kredit)] Asesmen Kelayakan Penerima Pinjaman (Klasifikasi)
 
 </details>
 
