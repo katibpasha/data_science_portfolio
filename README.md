@@ -23,6 +23,7 @@ Apabila setelah Anda mengkaji hasil analisis pada repositori ini dan menemukan k
   - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Deteksi-hepatitis-c)] Deteksi Penyakit Hepatitis C (Klasifikasi)
   - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Rekognisi-corak-batik)] Rekognisi Corak Batik Parang & Ceplok (Klasifikasi)
   - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Klasifikasi-kelayakan-penerima-kredit)] Asesmen Kelayakan Penerima Pinjaman (Klasifikasi)
+  - [[📂](https://github.com/katibpasha/data_science_portfolio/tree/main/Project/Machine-Learning/Rekognisi-kertas-batu-gunting)] Rekognisi Bentuk Tangan Batu, Gunting, Kertas (Klasifikasi)
 
 </details>
 
